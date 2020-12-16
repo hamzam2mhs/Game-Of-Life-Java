@@ -1,7 +1,5 @@
 // CLASS: ArtificialIntelligence
 //
-// Author: Muhammad Hamza, 7859309
-//
 // REMARKS: What is the purpose of this class?
 // This is the most important class, as it
 // handles all the methods needed to implement
