@@ -7,9 +7,9 @@ The Artificial intelligence decides where to insert, I have made it more defensi
 
 
 To compile the program:
-1) Type the following command in commandprompt or terminal.
-	javac HamzaMuhammadA3.java
+1) Type the following command in command prompt or terminal.
+	javac GameOfLife.java
 2) Once the program is compiled then run it by typing
-	java HamzaMuhammadA3
+	java GameOfLife
 
 The program should run without any issues :)
