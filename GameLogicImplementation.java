@@ -1,7 +1,5 @@
 // CLASS: GameLogicImplementation
 //
-// Author: Muhammad Hamza, 7859309
-//
 // REMARKS: What is the purpose of this class?
 // This is one of the  important class as this
 // implements the basic game logic which is
