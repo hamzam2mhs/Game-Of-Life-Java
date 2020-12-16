@@ -1,10 +1,4 @@
 //----------------------------------------------
-// NAME: Muhammad Hamza
-// STUDENT NUMBER: 7859309
-// COURSE: COMP 2150
-// INSTRUCTOR: Ali Neshati
-// ASSIGNMENT: assignment #3
-//
 // REMARKS: What is the purpose of this program?
 // In this assignment I have written a Java code
 // to enable a user to play a game of “Connect”,
@@ -15,7 +9,7 @@
 // artificial intelligence does.
 //-----------------------------------------------
 
-public class HamzaMuhammadA3
+public class GameOfLife
 {
     public static void main(String[] args)
     {
@@ -24,6 +18,6 @@ public class HamzaMuhammadA3
         //to start the game, call the getCurrentPlayer method and the lastMove method.
         game.getCurrentPlayer().lastMove(-1);
     }//main
-}//HamzaMuhammadA3
+}//GameOfLife
 
 ////////////////////////END OF CLASS/////////////////////
