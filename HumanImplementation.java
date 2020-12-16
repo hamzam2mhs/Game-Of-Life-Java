@@ -1,7 +1,5 @@
 // CLASS: HumanImplementation
 //
-// Author: Muhammad Hamza, 7859309
-//
 // REMARKS: What is the purpose of this class?
 // This is the implementation of the Human and
 // Player interface.
